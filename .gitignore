@@ -1,0 +1,7 @@
+downloads/
+data/parsed/test/
+data/parsed/test_hybrid/
+libreoffice.msi
+__pycache__/
+*.pyc
+.venv/

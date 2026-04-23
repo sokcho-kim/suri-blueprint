@@ -1,0 +1,13 @@
+[project]
+name = "suri-blueprint"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "lxml>=6.1.0",
+    "opendataloader-pdf>=2.3.0",
+    "pymupdf>=1.27.2.2",
+    "requests>=2.33.1",
+]
